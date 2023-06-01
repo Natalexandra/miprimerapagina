@@ -138,6 +138,9 @@ display: flex;
   }
 }
 
+.greeting {
+  text-align: center;
+}
 
 
 
